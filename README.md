@@ -1,2 +1,2 @@
 # Snake-Game
-Deployed link - snakegamejscsshtml.netlify.app
+Deployed link - https://snakegamejscsshtml.netlify.app/
